@@ -1,0 +1,15 @@
+.css-input {
+    padding: 5px;
+    font-size: 16px;
+    border-width: 8px;
+    border-color: #8f1313;
+    background-color: #c6aaaa;
+    color: #3a3fda;
+    border-style: solid;
+    border-radius: 33px;
+    box-shadow: 1px 20px 22px rgba(66,66,66,.75);
+    text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+}
+.css-input:focus {
+    outline:none;
+}
